@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SeleniumTest">
+    <test name="GoogleCloud">
+        <classes>
+            <class name="by.barbuk.automation.task4.tests.GoogleCloudPageAccessTest"/>
+        </classes>
+    </test>
+</suite>
